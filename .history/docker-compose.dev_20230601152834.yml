@@ -1,0 +1,2 @@
+client:
+    command: sh -c 'CHOKIDAR_USEPOLLING=true npm start'
